@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/work/spring15/controller/MemberController.java=UTF-8
+encoding//src/main/java/com/work/spring15/dao/BoardDAO.java=UTF-8
+encoding//src/main/java/com/work/spring15/dao/MemberDAO.java=UTF-8
+encoding//src/main/java/com/work/spring15/dto/Board.java=UTF-8
+encoding//src/main/java/com/work/spring15/dto/Member.java=UTF-8
+encoding//src/main/java/com/work/spring15/service/MemberService.java=UTF-8
+encoding/<project>=UTF-8

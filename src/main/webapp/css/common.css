@@ -1,0 +1,122 @@
+/* 본인만의 스타일 시트를 정의하세요. : common.css 
+
+	0. 기본 글짜체 돋움
+	1. 기본 글씨 크기 12px;
+	2. 기본 글짜 색상 #00000
+	3. 기본굵은 글짜 색상 #2c2c2c 
+	4. 기본 컬러글짜 색상 #28903B 
+	5. 기본굵은 컬러글짜 색상 #bb1219 
+
+*/
+
+/* 일반 글자 */
+.general {
+	font-family:돋움, 굴림;
+	font-size: 12px;	
+}
+
+/* 굵은 글자 */
+.bold {
+	font-weight:bold;
+	color:#2c2c2c;
+}
+
+/* 색상 글자 */
+.color {
+	color:#28903B;
+}
+
+/* 굵은 색상 글자 */
+.boldColor {
+	font-weight:bold;
+	color:#bb1219;
+}
+
+.small {
+	font-size:9px;
+}
+
+/* 입력양식 small */
+input.small {
+	width:60px;height:23px;
+}
+
+/* 입력양식 normal */
+input.normal {
+	width:120px;height:23px;
+}
+
+/* 입력양식 large */
+input.large {
+	width:220px;height:23px;
+}
+
+/* 입력양식 읽기전용 background 색상 지정 */
+input.readonly {
+	background-color:#ffffcc;
+}
+
+/* select 입력양식 normal */
+select.normal {
+	width:122px;height:30px;
+}
+
+/* label 오른쪽 정렬 */
+td.label {
+	text-align:right;	
+}
+
+td.number {
+	text-align:right;	
+}
+
+td.center {
+	text-align:center;	
+}
+
+/* label 오른쪽 정렬 */
+td.title {
+	text-align:center;
+	font-weight:bold;	
+}
+
+/* submit, button */
+input.btnNormal {
+	width:70px;height:30px;
+}
+
+/* td button */
+td.btnNormal {
+	text-align:center;
+}
+
+/* 링크 밑줄 없애기 */
+a.normal {
+	text-decoration:none;
+	font-size:11px;
+	color:#2c2c2c;;
+}
+a.small {
+	font-size:9px;
+}
+
+/* 링크 굵은 글자 */
+a.bold {
+	font-weight:bold;
+}
+
+/* 링크 색상 글자 */
+a.color {
+	color:#bb1219;
+}
+
+/* 링크 굵은 색상 글자 */
+a.boldColor {
+	color:#bb1219;
+}
+
+
+/* 테이블 */
+table.normal {
+	
+}
